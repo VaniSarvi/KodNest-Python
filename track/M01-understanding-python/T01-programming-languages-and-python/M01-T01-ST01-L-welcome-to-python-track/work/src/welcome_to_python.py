@@ -1,1 +1,5 @@
 print(" This is our First Class")
+print("Welcome to the Python Track.")
+print("My name is Vani")
+print("My goal is to become a Python Developer.")
+print("I selected Python because I want to build applications using data, automation and AI.")
